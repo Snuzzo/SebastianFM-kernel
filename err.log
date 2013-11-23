@@ -1,0 +1,25 @@
+make[2]: *** No rule to make target `drivers/net/kineto_gan.o', needed by `drivers/net/built-in.o'.  Stop.
+make[1]: *** [drivers/net] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make[3]: *** No rule to make target `drivers/mmc/card/mmc_block_test.c', needed by `drivers/mmc/card/mmc_block_test.o'.  Stop.
+make[3]: *** Waiting for unfinished jobs....
+make[2]: *** [drivers/mmc/card] Error 2
+make[2]: *** Waiting for unfinished jobs....
+make[3]: *** [net/bluetooth/bnep/core.o] Error 1
+make[3]: *** Waiting for unfinished jobs....
+make[1]: *** [drivers/mmc] Error 2
+make[3]: *** [net/bluetooth/bnep/netdev.o] Error 1
+make[2]: *** [net/bluetooth/bnep] Error 2
+make[2]: *** Waiting for unfinished jobs....
+make[3]: *** [net/bluetooth/rfcomm/core.o] Error 1
+make[3]: *** Waiting for unfinished jobs....
+make[3]: *** [net/bluetooth/rfcomm/tty.o] Error 1
+make[3]: *** [net/bluetooth/rfcomm/sock.o] Error 1
+make[2]: *** [net/bluetooth/rfcomm] Error 2
+make[1]: *** [net/bluetooth] Error 2
+make: *** [net] Error 2
+make: *** Waiting for unfinished jobs....
+make[3]: *** [drivers/gpu/msm/adreno.o] Error 1
+make[2]: *** [drivers/gpu/msm] Error 2
+make[1]: *** [drivers/gpu] Error 2
+make: *** [drivers] Error 2
